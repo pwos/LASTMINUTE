@@ -7,5 +7,6 @@ git clone https://github.com/pwos/LASTMINUTE.git
 
 Execute:
 ==================
-cd SaleTaxes
-gradle run
+<p>cd SaleTaxes</p>
+<p>gradle run</p>
+
