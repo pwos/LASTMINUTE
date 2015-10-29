@@ -5,7 +5,7 @@ Clone the project:
 ==================
 git clone https://github.com/pwos/LASTMINUTE.git
 
-Execute an example with values from the inverview exercise:
+Execute an example:
 ==================
-<p>gradle run</p>
+gradle run
 
