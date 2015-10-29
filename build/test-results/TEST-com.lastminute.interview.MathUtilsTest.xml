@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.lastminute.interview.MathUtilsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2015-10-29T14:48:27" hostname="dhvw023" time="0.004">
-  <properties/>
-  <testcase name="testRoundUp_0" classname="com.lastminute.interview.MathUtilsTest" time="0.003"/>
-  <testcase name="testRoundUp_0_01" classname="com.lastminute.interview.MathUtilsTest" time="0.001"/>
-  <testcase name="testRoundUp_0_05" classname="com.lastminute.interview.MathUtilsTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
