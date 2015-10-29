@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.lastminute.interview.TaxCalculatorImplTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2015-10-29T14:48:27" hostname="dhvw023" time="0.004">
+  <properties/>
+  <testcase name="testCalculate_variousQuantity" classname="com.lastminute.interview.TaxCalculatorImplTest" time="0.001"/>
+  <testcase name="testCalculate_freeProducts" classname="com.lastminute.interview.TaxCalculatorImplTest" time="0.0"/>
+  <testcase name="testCalculate_Input1" classname="com.lastminute.interview.TaxCalculatorImplTest" time="0.001"/>
+  <testcase name="testCalculate_Input2" classname="com.lastminute.interview.TaxCalculatorImplTest" time="0.001"/>
+  <testcase name="testCalculate_Input3" classname="com.lastminute.interview.TaxCalculatorImplTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
